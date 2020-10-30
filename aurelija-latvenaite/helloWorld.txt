@@ -1,4 +1,4 @@
-HEAD
 Hello from feature branch!
-Hello World from merge-conflict branch!
-conflict/aurelija-latvenaite
+and
+Hello from merge-conflict branch!
+after successful merge conflict
